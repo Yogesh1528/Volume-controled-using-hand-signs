@@ -1,1 +1,2 @@
-# DAT-deaf-sign-convert-into-audio-and-video-
+volume control over hand signs
+making easy way to handle some properties
